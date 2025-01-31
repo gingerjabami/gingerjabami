@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi</h1>
+<h1 align="center">Hi 👋, I'm Aditi!</h1>
 <h3 align="center">CSE undergrad interested in AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gingerjabami&label=Profile%20views&color=0e75b6&style=flat" alt="gingerjabami" /> </p>
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditi-sikder-hi-there/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-sikder-hi-there/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sikderaditi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sikderaditi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditi sikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi sikder" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sikderaditi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sikderaditi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
