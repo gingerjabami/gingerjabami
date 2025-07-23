@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gingerjabami&label=Profile%20views&color=0e75b6&style=flat" alt="gingerjabami" /> </p>
 
-- 🔭 I’m currently working on [Chess Engine](https://github.com/gingerjabami/chess-engine)
+- 🔭 I’m currently working on [🤫]
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **NLP and reinforcement learning**
 
-- 💬 Ask me about **AI, Competitive programming**
+- 💬 Ask me about **AI, Competitive programming, Anime**
 
 - 📫 How to reach me **aditisikder1@gmail.com**
 
