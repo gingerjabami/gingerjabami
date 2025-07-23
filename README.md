@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aditisikder1@gmail.com**
 
-- ⚡ Fun fact **I like watching Anime;**
+- ⚡ Fun fact **I'm a huge Kakegurui enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
